@@ -1,5 +1,4 @@
 nums = [6, -4, -3, 2, 3]
-
 for i in range(len(nums)):
     left_sum = 0
     right_sum = 0
