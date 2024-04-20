@@ -8,6 +8,7 @@ N = 2
 # print(first)
 #
 #
+
 def left_rotate_array(arr, k):
     n = len(arr)
     k = k % n  # Ensure k is within the range of array length
