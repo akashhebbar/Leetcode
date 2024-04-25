@@ -45,6 +45,7 @@ def rearrange_by_sign(A):
     return A
 
 
+
 # Array Initialisation.
 A = [1, 2, -4, -5]
 ans = rearrange_by_sign(A)
