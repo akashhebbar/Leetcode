@@ -2,6 +2,7 @@ s = "akash"
 goal = "akahs"
 
 
+
 def buddyString(s, goal):
     n = len(s)
     if len(s) != len(goal):
