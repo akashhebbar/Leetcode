@@ -20,3 +20,4 @@ if counts1 == len(st1) or counts2 == len(st2):
     print("true")
 else:
     print("false")
+
