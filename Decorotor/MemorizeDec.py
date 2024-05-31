@@ -1,5 +1,6 @@
 # dec to memorize function
 
+# dec function
 def memorize(func):
     cache = {}
 
