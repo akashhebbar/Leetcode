@@ -10,6 +10,8 @@ def insertion_sort(arr: list):
             i -= 1
 
 
+# Call function
+
 items = [20, 21, 4, -1, -8, 66, 22, 4, 5, 21, 684, 99, 32, 53]
 insertion_sort(items)
 print(items)
