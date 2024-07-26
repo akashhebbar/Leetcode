@@ -12,6 +12,7 @@ def get_sum(nums: list) -> list:
 
     return ans
 
+#
 
 result = get_sum(nums)
 print(result)
